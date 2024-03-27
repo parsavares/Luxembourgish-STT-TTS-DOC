@@ -1,4 +1,4 @@
-{ 
+{
   "do_normalize": true,
   "feature_extractor_type": "Wav2Vec2FeatureExtractor",
   "feature_size": 1,
