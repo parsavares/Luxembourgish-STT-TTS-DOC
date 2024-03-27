@@ -1,4 +1,4 @@
-{
+{ 
   "activation_dropout": 0.0,
   "adapter_kernel_size": 3,
   "adapter_stride": 2,
