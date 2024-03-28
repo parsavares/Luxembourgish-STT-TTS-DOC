@@ -13,7 +13,7 @@ pipeline_tag: automatic-speech-recognition
 ---
 
 
-# parsavares/wav2vec2-base-luxembourgish-4h: A Luxembourgish ASR Model
+# parsavares/wav2vec2-base-luxembourgish-STT: A Luxembourgish ASR Model
 
 ## Overview
 
